@@ -9,4 +9,4 @@ Tarea para Ingeniería del Software Avanzada sobre Patrones de Diseño `II`
 
 <br>
 
-Proyecto que recrea la estructura de un semáforo biestable/triestable (usando el patrón de diseño que consideremos mas acertado)
+Proyecto que recrea la estructura de un semáforo biestable/triestable (usando un patrón de diseño)
